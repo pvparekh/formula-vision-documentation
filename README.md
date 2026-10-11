@@ -2,6 +2,8 @@
 
 This directory is the documentation home for my Formula Vision project and rewrite.
 
+As of October 2026, the promoted historical library contains **170+ races**.
+
 
 ## Start here
 
