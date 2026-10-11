@@ -135,6 +135,8 @@ Modern seasons were added through the same guarded path.
 
 By the 2025 publication run, the promoted catalog reached 85 races. Twenty-two 2025 races were published while two remained quarantined for later investigation. The promoted graph was independently verified.
 
+By October 2026, the promoted historical catalog had expanded to **170+ races** through the same validated backfill and publication workflow.
+
 Completed 2026 races can be added incrementally through the same missing-only workflow.
 
 ## 11. Milestone 6: product shell
