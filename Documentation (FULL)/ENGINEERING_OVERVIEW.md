@@ -406,7 +406,7 @@ Examples:
 - reference snapshot: **49 manifest-tracked canonical artifacts**;
 - reference canonical size: about **21.89 MiB**;
 - high-frequency position and car telemetry account for roughly **98.5%** of canonical bytes;
-- promoted historical catalog reached **85 races** during the 2025 publication run;
+- promoted historical catalog includes **170+ races** as of October 2026;
 - archive publication preserves per-race quarantine rather than weakening validation to increase coverage.
 
 These measurements influenced delivery benchmarking, lazy telemetry, chunking, storage budgeting, and archive operations.
