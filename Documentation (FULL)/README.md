@@ -2,6 +2,8 @@
 
 This directory is the documentation home for the Formula Vision v2 rewrite.
 
+As of October 2026, the promoted historical library contains **170+ races**.
+
 The docs are organized by reader task rather than implementation folder. The root README stays short, while deeper material is separated into explanation, how-to guidance, reference, decision records, and historical milestone records.
 
 ## Start here
